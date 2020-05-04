@@ -13,3 +13,5 @@ SELECT ?movie ?movieLabel ?narrative_location ?narrative_locationLabel ?coordina
   SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
 }
 ```
+
+L'idée est de monter une carte interactive suffisamment chouette pour permettre d'enrichir à notre tour les données de Wikidata.
